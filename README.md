@@ -38,12 +38,3 @@ I am a data enthusiast specialized in transforming complex datasets into strateg
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudkahled1955&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f1a" alt="Mahmoud's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudkahled1955&theme=tokyonight&hide_border=true&background=0b0f1a" alt="Mahmoud's GitHub Streak" width="48%">
-</p>
